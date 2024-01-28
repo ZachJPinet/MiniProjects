@@ -1,7 +1,7 @@
 # MiniProjects
 My repository for very small projects, typically only 1 file for each.
 
-**[MiniProject 1: list_sorter.py]**
+**_MiniProject 1: list_sorter.py_**
 
 Though I'm sure this program can have many uses, I originally created it to help me sort songs in a playlist to order them from my most favorite to least favorite. It's difficult to order 50 or 100 songs at a time into a list that accurately reflects which songs I like more than others, so I created this so that I would only ever have to compare two songs at a time.
 
